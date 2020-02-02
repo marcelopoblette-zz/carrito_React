@@ -1,0 +1,16 @@
+.Button{
+    margin-left: 10px; 
+    margin-top: 5px;
+    background: blueviolet;
+    color: whitesmoke;
+}
+
+.Card{
+    margin-right: 10px; 
+    margin-top: 10px;
+    background-color: teal;
+}
+.CardImg{
+    /* width: 3cm; */
+    height: 5cm ;
+}
